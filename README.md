@@ -1,8 +1,8 @@
 # Introduction
 
-Name        : ねみちゃん（nemichan）
-Age         : 17
-Affiliation : College of Humanities and Sciences, Nihon University
+Name        : ねみちゃん（nemichan）<br></br>
+Age         : 17 <br></br>
+Affiliation : College of Humanities and Sciences, Nihon University <br></br>
 
 # 
 
