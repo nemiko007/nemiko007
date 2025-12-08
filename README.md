@@ -1,7 +1,7 @@
 # Introduction
 
-Name        : ねみちゃん（nemichan）<br></br>
-Age         : 21 <br></br>
+Name        : ねみ（nemi）<br></br>
+Age         : 22 <br></br>
 Affiliation : College of Humanities and Sciences, Nihon University <br></br>
 Portfolio   : https://nemiko007.netlify.app/
 
