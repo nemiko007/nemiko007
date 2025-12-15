@@ -2,9 +2,13 @@
 
 Name        : ねみ（nemi）<br></br>
 Age         : 22 <br></br>
-Affiliation : College of Humanities and Sciences, Nihon University <br></br>
 Portfolio   : https://nemiko007.netlify.app/
 
 # 
 
-![nemiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemiko007&show_icons=true&theme=dracula)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=karaage0703&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaage0703" />
+</a>
