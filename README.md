@@ -4,7 +4,7 @@ Name        : ねみ（nemi）<br></br>
 Age         : 22 <br></br>
 Portfolio   : https://nemiko007.netlify.app/
 
-# I feel like I'm just being forced to do it/made to do it
+# I feel like I'm just being forced to do it
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemiko007&theme=dracula" />
