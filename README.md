@@ -15,3 +15,5 @@ Portfolio   : https://nemiko007.netlify.app/
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemiko007&theme=dracula" />
 </a>
+
+![Codewars](https://github.r2v.ch/codewars?user=nemiko007&stroke=yellow)
