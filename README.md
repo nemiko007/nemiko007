@@ -2,7 +2,6 @@
 
 Name        : ねみ（nemi）<br></br>
 Age         : 22 <br></br>
-Portfolio   : https://nemiko007.netlify.app/
 
 # I feel like I'm just being forced to do it
 
