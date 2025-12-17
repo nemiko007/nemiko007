@@ -9,6 +9,9 @@ Age         : 22 <br></br>
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemiko007&theme=dracula" />
 </a>
 
+![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
+
+
 ![Codewars](https://github.r2v.ch/codewars?user=nemiko007&stroke=blue)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
