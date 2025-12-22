@@ -3,7 +3,7 @@
 Name        : ねみ（nemi）<br></br>
 Age         : 22 <br></br>
 
-# I'm just being forced to do it
+# やってる感
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nemiko007&theme=dracula" />
