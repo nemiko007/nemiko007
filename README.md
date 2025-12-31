@@ -37,17 +37,6 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 ### ⚡ Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=nemiko007&stroke=blue)
 
-### 🌈 GitHub Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nemiko007&count_private=true&show_icons=true" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemiko007" />
-</a>
-
-<br clear="both"/>
-
 ---
 
 ## 💖 Featured Projects（盛れてる作品たち）
