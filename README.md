@@ -26,6 +26,28 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 ✨⚡ CYBER GYARU SYSTEM BOOTING ⚡✨
 
 
+
+---
+
+## 🌟 Stats（ギャルの戦闘力💖）
+
+### 💅 HackerRank
+![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
+
+### ⚡ Codewars
+![Codewars](https://github.r2v.ch/codewars?user=nemiko007&stroke=blue)
+
+### 🌈 GitHub Stats  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nemiko007&count_private=true&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemiko007" />
+</a>
+
+<br clear="both"/>
+
 ---
 
 ## 💖 Featured Projects（盛れてる作品たち）
@@ -50,17 +72,3 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 - 💜 Twitter  
 - ⚡ Blog  
 - 🌈 Portfolio  
-
-# やってる感
-
-![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
-
-
-![Codewars](https://github.r2v.ch/codewars?user=nemiko007&stroke=blue)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nemiko007&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nemiko007" />
-</a>
