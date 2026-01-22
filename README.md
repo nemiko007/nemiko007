@@ -20,13 +20,13 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 ---
 
 ## ⚡ Vibes（世界観💫）
-✨⚡ CYBER GYARU SYSTEM BOOTING ⚡✨
+✨⚡ めんどいことはやりたくない！！ ⚡✨
 
 
 
 ---
 
-## 🌟 Stats（ギャルの戦闘力💖）
+## 🌟 Stats（やってる感💖）
 
 ### 💅 HackerRank
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
