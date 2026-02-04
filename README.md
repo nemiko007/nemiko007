@@ -28,9 +28,9 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 
 ### GitHub stats
 
-![GitHub stats](https://github-readme-stats-fawn-chi-71.vercel.app/api?username=nemiko007&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-fawn-chi-71.vercel.app/api?username=nemiko007&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats-fawn-chi-71.vercel.app/api/top-langs?username=nemiko007&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fawn-chi-71.vercel.app/api/top-langs?username=nemiko007&layout=compact&theme=merko)
 
 ### 💅 HackerRank
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
