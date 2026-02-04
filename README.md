@@ -28,6 +28,8 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 
 ## 🌟 Stats（やってる感💖）
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemiko007&show_icons=true&theme=radical)
+
 ### 💅 HackerRank
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
 
