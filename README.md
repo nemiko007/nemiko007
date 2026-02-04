@@ -28,7 +28,7 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 
 ## 🌟 Stats（やってる感💖）
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nemiko007)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nemiko007)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💅 HackerRank
 ![HackerRank Stats](https://hackerrank-stats.vercel.app/api?username=nemiko007&theme=dark)
