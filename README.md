@@ -44,6 +44,8 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 - コードもネイルも盛ってなんぼ  
 - 技術は可愛くていい  
 - 自分の世界観は自分で作る💖  
-- “かわいい” は最強の最適化⚡  
+- “かわいい” は最強の最適化⚡
+
+[![typograssy](https://typograssy.deno.dev/api?text=gyaru!!!!)](https://github.com/kawarimidoll/typograssy)
 
 ---
