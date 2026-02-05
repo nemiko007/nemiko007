@@ -46,6 +46,6 @@ WSL2 とか WezTerm とか、全部盛ってナンボの世界🌈✨
 - 自分の世界観は自分で作る💖  
 - “かわいい” は最強の最適化⚡
 
-[![typograssy](https://typograssy.deno.dev/api?text=美味い飯が食いてえ！！！！！！)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=美味い飯が食いてえ！！)](https://github.com/kawarimidoll/typograssy)
 
 ---
